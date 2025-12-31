@@ -27,15 +27,6 @@ Currently, I am learning Next.js to further enhance my frontend development skil
 - 💼 LinkedIn: https://www.linkedin.com/in/sucharitasardar/
 - 🧑‍💻 GitHub: https://github.com/sucharita4867
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sucharita4867&show_icons=true)
-
-### Top language
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sucharita4867&layout=compact)
-
-### GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sucharita4867)
 
 
 
