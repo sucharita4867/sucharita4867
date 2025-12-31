@@ -1,47 +1,128 @@
-## 👋 Hi, I'm Sucharita Sardar || Frontend Web Developer
+<br clear="both">
 
+<div align="center">
+  <img width="100%" src="https://i.ibb.co/7JZ5nqrH/Whats-App-Image-2025-12-31-at-4-25-20-PM.jpg"  />
+</div>
+  
+### 
 
+<h1 align="center">👨‍💻  Hi, I'm Sucharita Sardar👋</h1>
 
-### 👩‍💻 About Me
-Hi, I’m Sucharita Sardar, a Frontend Web Developer with experience in building modern web applications.  
-I work with technologies like React, JavaScript, Node.js, Express.js, MongoDB, and Firebase to develop practical projects.  
-I have deployed my projects on Netlify and Vercel, focusing on clean, responsive, and user-friendly design.  
-Currently, I am learning Next.js to further enhance my frontend development skills.
+###
+  
+<h3 align="left">🎨  About Me </h3>
 
-### Current Activities
-- 🔭 Exploring Next.js  
-- 🌱 Building frontend projects  
-- 💻 Working on responsive web applications  
+###
 
-### 🛠️ Skills
-#### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<p align="left">🚀 I'm a Frontend Developer passionate about building modern,  responsive, and high-performance web applications. With expertise in React, Tailwind CSS, JavaScript, Node.js, Express.js, and MongoDB, I love turning ideas into beautiful, functional, and user-friendly interfaces.<br><br><br>- 🔭 I’m working on a  full-stack fruit website (NEXT JS)<br>- 📚 I'm currently learning NextJs<br>- ⚡ In my free time I read books, watch podcasts, explore new technologies ...</p>
 
-#### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+###
 
-#### Tools
-<img src="https://skillicons.dev/icons?i=git,github,netlify,vercel" />
+<h3 align="left">🛠 Language and tools</h3>
 
-### 🔗 Social Links
-- 💼 LinkedIn: https://www.linkedin.com/in/sucharitasardar/
-- 🧑‍💻 GitHub: https://github.com/sucharita4867
+###
 
+<h3 align="left">Frontend:</h3>
 
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
 
+</div>
 
-<!--
-**sucharita4867/sucharita4867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="left">Backend  :</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+<img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+</div>
+
+###
+
+<h3 align="left">DevOps :</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
+
+###
+
+<h3 align="left">Tools :</h3>
+
+### 
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
+
+###
+[![trophy](https://github-profile-trophy.vercel.app/?username=sucharita4867&theme=onedark)](https://github.com/sucharita4867)
+<h3 align="left">🔥   My Stats  :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sucharita4867&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sucharita4867&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sucharita4867&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="left">🔗 Social Links </h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sucharitasardar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/SucharitaS88285" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/channels/sucharitasardar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="sucharitasardar7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+
+</div>
+
+###
+<h3 align="centre">⭐ If you find my work helpful or interesting, please consider giving my projects a star!</h3>
+
