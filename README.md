@@ -8,6 +8,21 @@ I work with technologies like React, JavaScript, Node.js, Express.js, MongoDB, a
 I have deployed my projects on Netlify and Vercel, focusing on clean, responsive, and user-friendly design.  
 Currently, I am learning Next.js to further enhance my frontend development skills.
 
+### Current Activities
+- 🔭 Exploring Next.js  
+- 🌱 Building frontend projects  
+- 💻 Working on responsive web applications  
+
+### 🛠️ Skills
+#### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+
+#### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+
+#### Tools
+<img src="https://skillicons.dev/icons?i=git,github,netlify,vercel" />
+
 
 
 
