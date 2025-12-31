@@ -1,12 +1,12 @@
-## 👋 Hi, I'm Sucharita Sardar  
-### Frontend Web Developer
+## 👋 Hi, I'm Sucharita Sardar || Frontend Web Developer
 
-<div align="center">
-  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
-  <h1 style="font-size: 28px; margin: 10px 0;">GitHub Readme Stats</h1>
-  <p>Get dynamically generated GitHub stats on your READMEs!</p>
-</div>
 
+
+### 👩‍💻 About Me
+Hi, I’m Sucharita Sardar, a Frontend Web Developer with experience in building modern web applications.  
+I work with technologies like React, JavaScript, Node.js, Express.js, MongoDB, and Firebase to develop practical projects.  
+I have deployed my projects on Netlify and Vercel, focusing on clean, responsive, and user-friendly design.  
+Currently, I am learning Next.js to further enhance my frontend development skills.
 
 
 
