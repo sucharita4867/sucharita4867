@@ -6,7 +6,7 @@
   
 ### 
 
-<h1 align="center"> Hi, I'm Sucharita Sardar👋</h1>
+<h1 align="center"> Hi, I'm Sucharita Sardar</h1>
 
 ###
   
