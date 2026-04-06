@@ -14,7 +14,9 @@
 
 ###
 
-<p align="left">🚀 I'm a Frontend Developer passionate about building modern,  responsive, and high-performance web applications. With expertise in React, Tailwind CSS, JavaScript, Node.js, Express.js, and MongoDB, I love turning ideas into beautiful, functional, and user-friendly interfaces.<br><br><br>- 🔭 I’m working on a  full-stack fruit website (NEXT JS)<br>- 📚 I'm currently learning NextJs<br>- ⚡ In my free time I read books, watch podcasts, explore new technologies ...</p>
+<p align="left">Currently, I’m working on a full-stack fruit website using Next.js while continuously expanding my knowledge in modern web development. I am always eager to learn new technologies, improve my skills, and take on challenging projects that help me grow as a developer.
+
+In my free time, I enjoy reading books, watching insightful podcasts, and exploring new tools and technologies to stay updated in the tech world.</p>
 
 ###
 
